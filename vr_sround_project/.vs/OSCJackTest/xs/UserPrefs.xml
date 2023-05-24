@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B42D6651-B123-43AF-3E58-9730F8F133A8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/VR/Scripts/Util/OVRGrabber.cs">
+    <Files>
+      <File FileName="Assets/scripts/Distance.cs" Line="21" Column="17" />
+      <File FileName="Library/PackageCache/jp.keijiro.osc-jack@1.0.3/Runtime/Unity/OscPropertySender.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/VctorZero.cs" Line="1" Column="1" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRGrabber.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/StopWatch.cs" Line="1" Column="1" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabber.cs" Line="15" Column="35" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="da1c7fb4-2774-4cf4-8e09-936d86ebc616" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{DB2585E6-990B-DC13-3671-97EFA06D6875}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/s_cube_operations/soundCube_FL.cs">
+    <Files>
+      <File FileName="Assets/scripts/s_cube_operations/soundCube_FL.cs" Line="78" Column="14" />
+      <File FileName="Assets/scripts/s_cube_operations/soundCube_FR.cs" Line="65" Column="6" />
+      <File FileName="Assets/scripts/s_cube_operations/soundCube_ML.cs" Line="53" Column="54" />
+      <File FileName="Assets/scripts/s_cube_operations/soundCube_MR.cs" Line="79" Column="6" />
+      <File FileName="Assets/scripts/s_cube_operations/soundCube_RL.cs" Line="76" Column="14" />
+      <File FileName="Assets/scripts/s_cube_operations/soundCube_RR.cs" Line="25" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4c7536f9-bf91-4146-86a0-d4920328e89a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
