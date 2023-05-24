@@ -8,4 +8,4 @@ VRヘッドセット内蔵スピーカーと外部スピーカーという極端
 <br>
 制作開始 2023.5 ~ <br>
 ## 参考画像<br>
-<img width="1024" alt="img1" src="https://github.com/kuryuF/VR_sround_project/assets/89235127/4694cbfa-654e-4b4a-8b80-4f8e78d22076">
+<img width="1000" alt="img1" src="https://github.com/kuryuF/VR_sround_project/assets/89235127/3c5f67d4-30a1-497d-8c3b-8a2afca01ca0">
